@@ -1,4 +1,4 @@
-package com.github.heyalex.bottomdrawerexample
+package com.github.dkincorporated.bottomdrawerexample
 
 import android.graphics.Color
 import android.os.Build

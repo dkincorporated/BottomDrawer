@@ -1,4 +1,4 @@
-package com.github.heyalex.bottomdrawerexample
+package com.github.dkincorporated.bottomdrawerexample
 
 import android.os.Bundle
 import android.view.Gravity
@@ -10,11 +10,11 @@ import android.widget.ImageView
 import android.widget.SeekBar
 import androidx.appcompat.widget.AppCompatCheckBox
 import androidx.appcompat.widget.AppCompatSeekBar
-import com.github.heyalex.bottomdrawer.BottomDrawerDialog
-import com.github.heyalex.bottomdrawer.BottomDrawerFragment
-import com.github.heyalex.handle.PlainHandleView
-import com.github.heyalex.utils.changeNavigationIconColor
-import com.github.heyalex.utils.changeStatusBarIconColor
+import com.github.dkincorporated.bottomdrawer.BottomDrawerDialog
+import com.github.dkincorporated.bottomdrawer.BottomDrawerFragment
+import com.github.dkincorporated.handle.PlainHandleView
+import com.github.dkincorporated.utils.changeNavigationIconColor
+import com.github.dkincorporated.utils.changeStatusBarIconColor
 import com.rtugeek.android.colorseekbar.ColorSeekBar
 
 class GoogleTaskExampleDialog : BottomDrawerFragment() {

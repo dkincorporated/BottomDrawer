@@ -14,7 +14,7 @@
         android:paddingLeft="14dp"
         android:paddingRight="14dp">
 
-        <com.github.heyalex.expandable_cardview.ExpandableCardView
+        <com.github.dkincorporated.expandable_cardview.ExpandableCardView
             android:id="@+id/expandble_profile"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

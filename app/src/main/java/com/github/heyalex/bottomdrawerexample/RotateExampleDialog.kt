@@ -1,4 +1,4 @@
-package com.github.heyalex.bottomdrawerexample
+package com.github.dkincorporated.bottomdrawerexample
 
 import android.os.Bundle
 import android.view.Gravity
@@ -10,11 +10,11 @@ import android.widget.SeekBar
 import androidx.appcompat.widget.AppCompatCheckBox
 import androidx.appcompat.widget.AppCompatSeekBar
 import androidx.core.content.ContextCompat
-import com.github.heyalex.bottomdrawer.BottomDrawerDialog
-import com.github.heyalex.bottomdrawer.BottomDrawerFragment
-import com.github.heyalex.bottomdrawerexample.handle.RotateHandleView
-import com.github.heyalex.utils.changeNavigationIconColor
-import com.github.heyalex.utils.changeStatusBarIconColor
+import com.github.dkincorporated.bottomdrawer.BottomDrawerDialog
+import com.github.dkincorporated.bottomdrawer.BottomDrawerFragment
+import com.github.dkincorporated.bottomdrawerexample.handle.RotateHandleView
+import com.github.dkincorporated.utils.changeNavigationIconColor
+import com.github.dkincorporated.utils.changeStatusBarIconColor
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.rtugeek.android.colorseekbar.ColorSeekBar
 
